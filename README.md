@@ -1,20 +1,24 @@
 # MAST: Multimodal Abstractive Summarization with Trimodal Hierarchical Attention
 
-Code for EMNLP NLPBT 2020 [paper](). 
+Code for EMNLP NLPBT 2020 [paper](https://github.com/amankhullar/mast).
+
+## Model Architecture
+
+<img src="https://github.com/amankhullar/mast/blob/master/trimodal.png?raw=true" alt="Mast model architecture" width="500" height="500">
 
 ## Running Instructions
 
 ### Dependencies
 ```bash
 pip install nmtpytorch
-git clone https://github.com/amankhullar/mast.git 
+git clone https://github.com/amankhullar/mast.git
 ```
 
 - Replace `<path_to_env>/bin/nmtpy` with file `abstractive_mmbidaf/nmtpy`
 - Replace folder `<path_to_env>/lib/python3.6/site-packages/nmtpytorch` with folder `abstractive_mmbidaf/nmtpytorch`
 
 ### Train
-```python
+```bash
 CUDA_VISIBLE_DEVICES=<gpu_id> nmtpy train -C <path_for_conf_file>
 ```
 
