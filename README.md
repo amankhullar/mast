@@ -4,7 +4,7 @@ Code for EMNLP NLPBT 2020 [paper](https://github.com/amankhullar/mast).
 
 ## Model Architecture
 
-<img src="https://github.com/amankhullar/mast/blob/master/trimodal.png?raw=true" alt="Mast model architecture" width="500" height="500">
+<img src="https://github.com/amankhullar/mast/blob/master/trimodal.png?raw=true" alt="Mast model architecture" width="900" height="500">
 
 ## Running Instructions
 
