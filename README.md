@@ -7,7 +7,7 @@ Code for EMNLP NLPBT 2020 [paper]().
 ### Dependencies
 ```bash
 pip install nmtpytorch
-git clone https://github.com/amankhullar/abstractive_mmbidaf.git
+git clone https://github.com/amankhullar/mast.git 
 ```
 
 - Replace `<path_to_env>/bin/nmtpy` with file `abstractive_mmbidaf/nmtpy`
