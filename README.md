@@ -8,6 +8,9 @@ Code for EMNLP NLPBT 2020 [paper](https://github.com/amankhullar/mast).
 
 ## Running Instructions
 
+### Dataset
+MAST is trained on the 300h version of the How2 dataset: https://github.com/srvk/how2-dataset, which includes audio, video and text.
+
 ### Dependencies
 ```bash
 pip install nmtpytorch
