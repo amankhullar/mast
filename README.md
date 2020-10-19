@@ -1,6 +1,6 @@
 # MAST: Multimodal Abstractive Summarization with Trimodal Hierarchical Attention
 
-Code for EMNLP NLPBT 2020 [paper](https://github.com/amankhullar/mast).
+Code for EMNLP NLPBT 2020 [paper](https://arxiv.org/abs/2010.08021).
 
 ## Model Architecture
 
