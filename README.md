@@ -17,8 +17,8 @@ pip install nmtpytorch
 git clone https://github.com/amankhullar/mast.git
 ```
 
-- Replace `<path_to_env>/bin/nmtpy` with file `abstractive_mmbidaf/nmtpy`
-- Replace folder `<path_to_env>/lib/python3.6/site-packages/nmtpytorch` with folder `abstractive_mmbidaf/nmtpytorch`
+- Replace `<path_to_env>/bin/nmtpy` with file `mast/nmtpy`
+- Replace folder `<path_to_env>/lib/python3.6/site-packages/nmtpytorch` with folder `mast/nmtpytorch`
 
 ### Train
 ```bash
