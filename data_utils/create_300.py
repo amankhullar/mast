@@ -1,3 +1,6 @@
+"""
+This script helps create the 300h version for the text and the image modality since the data orginally contains the 2000h version
+"""
 import os
 import sys
 
